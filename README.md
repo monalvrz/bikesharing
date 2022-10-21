@@ -56,4 +56,4 @@ This information can give the team seeking to establish the service in De Moines
 For future analysis it would be important to obtain the following information and visualizations:
 - The age ranges of the users who use the service.
 - The distances traveled on the trips. 
-- The reasons for using the service.
+- The main reasons for using the service.
